@@ -2,6 +2,96 @@
 
     {
       "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/15.png",
+      "name": "Amoled 15",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/14.png",
+      "name": "Amoled 14",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/13.jpg",
+      "name": "Amoled 13",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/12.png",
+      "name": "Amoled 12",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/11.png",
+      "name": "Amoled 11",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/10.png",
+      "name": "Amoled 10",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/9.png",
+      "name": "Amoled 9",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/8.png",
+      "name": "Amoled 8",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/7.jpg",
+      "name": "Amoled 7",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/6.png",
+      "name": "Amoled 6",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/5.png",
+      "name": "Amoled 5",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/4.png",
+      "name": "Amoled 4",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/3.png",
+      "name": "Amoled 3",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/2.png",
+      "name": "Amoled 2",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/Amoled/1.png",
+      "name": "Amoled 1",
+      "collections": "Amoled"
+    },
+    {
+      "author": "Android Tools 4u",
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/minimal.json/main/MiniMal/100.jpg",
       "name": "MiniMal 100",
       "collections": "MiniMal"
