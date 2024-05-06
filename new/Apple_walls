@@ -1,6 +1,6 @@
  [
 
-   {
+    {
       "author": "Android Tools 4u",
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/appll.json/main/Sci-Fi/10.jpg",
       "name": "Sci-Fi 10",
@@ -50,7 +50,7 @@
     },
     {
       "author": "Android Tools 4u",
-      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/appll.json/main/Sci-Fi/02.jpg",
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/appll.json/main/Sci-Fi/2.jpg",
       "name": "Sci-Fi 2",
       "collections": "Sci-Fi"
     },
@@ -58,7 +58,7 @@
       "author": "Android Tools 4u",
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/appll.json/main/Sci-Fi/1.jpg",
       "name": "Sci-Fi 1",
-      "collections": "Sci-Fi",
+      "collections": "Sci-Fi"
     },   
     {
       "author": "Android Tools 4u",
